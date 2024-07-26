@@ -1,6 +1,6 @@
 Description About the program,
 This Python script is designed to facilitate the assessment of student progression based on their credit accumulation within a university course. The program allows both students and staff members to input and process data regarding the credits attained in different modules, categorizing the progression outcomes into four categories: "Progress," "Progress (module trailer)," "Module retriever," and "Exclude."
-
+g
 
 Key Features:
 Student Mode: In this mode, students input the number of credits they have achieved in three categories: Pass, Defer, and Fail. Based on these inputs, the program determines the student's progression outcome and displays it to the user. The outcomes are categorized based on predefined criteria.
